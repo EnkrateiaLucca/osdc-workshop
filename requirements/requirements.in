@@ -1,1 +1,7 @@
 ipykernel
+openai
+pydantic
+uv
+langchain
+langchain-community
+pypdf
