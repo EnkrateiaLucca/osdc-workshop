@@ -1,0 +1,22 @@
+// Knowledge Graph
+digraph {
+	1 [label="Large Language Models (LLMs)" color=blue]
+	2 [label="Personalized Learning" color=green]
+	3 [label="Tutoring Systems" color=green]
+	4 [label="Content Generation" color=green]
+	5 [label="Assessment and Feedback" color=green]
+	6 [label="Language Translation" color=green]
+	7 [label="Interactive Learning Tools" color=green]
+	8 [label="Educational Chatbots" color=green]
+	9 [label="Curriculum Development" color=green]
+	10 [label="Accessibility in Education" color=green]
+	1 -> 2 [label=enables color=black]
+	1 -> 3 [label=powers color=black]
+	1 -> 4 [label=facilitates color=black]
+	1 -> 5 [label=enhances color=black]
+	1 -> 6 [label=supports color=black]
+	1 -> 7 [label=drives color=black]
+	1 -> 8 [label=supports color=black]
+	1 -> 9 [label="assists in" color=black]
+	1 -> 10 [label=improves color=black]
+}

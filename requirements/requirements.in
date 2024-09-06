@@ -5,3 +5,11 @@ uv
 langchain
 langchain-community
 pypdf
+instructor
+pypdf
+pymupdf
+pillow
+matplotlib
+ipywidgets
+arxiv
+jinja2
